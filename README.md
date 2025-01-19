@@ -1,9 +1,5 @@
 # Hello, I'm Salman Ahmed Abdiaziz! 👋
 
-🎓 I'm currently studying @CoGrammar bootcamp for data science, where I'm honing my skills in statistical analysis, machine learning, and data visualization.
-
-
-
 ## About Me
 
 - 🔭 I'm currently working on assignments for my data science bootcamp for CoGrammar.

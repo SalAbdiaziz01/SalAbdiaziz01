@@ -1,5 +1,5 @@
 # Hello, I'm Salman Ahmed Abdiaziz! 👋
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalAbdiaziz01&layout=compact)
 ## About Me
 
 - 🔭 I'm currently working on assignments for my data science bootcamp for CoGrammar.

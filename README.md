@@ -2,7 +2,6 @@
 
 ## About Me
 
-- 🔭 I'm currently working on assignments for my data science bootcamp for CoGrammar.
 - 🌱 I'm currently learning Data Visualization,Statistical Analysis: and Machine learning.
 - 📫 How to reach me: Check the 'Get in touch' section below.
 - 😄 Pronouns: He/Him.

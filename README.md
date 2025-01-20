@@ -1,5 +1,5 @@
 # Hello, I'm Salman Ahmed Abdiaziz! 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalAbdiaziz01&layout=compact)
+
 ## About Me
 
 - 🔭 I'm currently working on assignments for my data science bootcamp for CoGrammar.
@@ -23,4 +23,7 @@
 - Email: salman.abdiaziz2001@gmail.com
 
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to connect!
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalAbdiaziz01&layout=compact)
 
